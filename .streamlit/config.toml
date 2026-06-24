@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#00FF66"          # Pitch Neon Green
+backgroundColor = "#0A0F1D"      # Deep Tactical Blue/Black
+secondaryBackgroundColor = "#171E31" # Premium Card Panels
+textColor = "#F4F6F9"            # Crisp White text
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
